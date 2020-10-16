@@ -1,4 +1,4 @@
-package yourname.assignment.data;
+package assignment5.assignment.data;
 
 public class Basic {
     int n;

@@ -1,3 +1,5 @@
+package assignment2;
+
 public class Two {
     public boolean checkStringAllAlphabets(String input){
         boolean result = input.toLowerCase()

@@ -1,4 +1,4 @@
-package yourname.assignment.singleton;
+package assignment5.assignment.singleton;
 
 public class Sample {
     String member;

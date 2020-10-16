@@ -1,7 +1,7 @@
-package yourname.assignment.main;
+package assignment5.assignment.main;
 
-import yourname.assignment.data.Basic;
-import yourname.assignment.singleton.Sample;
+import assignment5.assignment.singleton.Sample;
+import assignment5.assignment.data.Basic;
 
 public class Main {
     public static void main(String[] args) {
